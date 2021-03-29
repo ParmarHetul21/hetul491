@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hetul491
+- 👋 Hi, I’m Hetul parmar
 - 👀 I’m interested in Python Javascript.
 - 🌱 I’m currently learning node. 
 - ☕ Fun fact: I am in love with coffee.
